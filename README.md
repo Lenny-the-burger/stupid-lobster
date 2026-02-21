@@ -8,7 +8,7 @@ jimmy generates text at 15 thousand token a second. It also only runs an 8B mode
 
 It rarely does anything good, and likes deleting files. But hey its free.
 
-They call it artifical intelligence, and its definetly got the artifical part down.
+They call it artifical intelligence, and its definetly got the artifical part down. Dont get IP banned.
 
 ## Quick Start
 
